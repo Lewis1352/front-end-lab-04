@@ -13,7 +13,10 @@ body {
   background-color: #00008b;
   color: #ffffff;
   line-height: 2em;
+}
 
+.menu-toggle{
+  display: flex;
 }
 
 nav {
@@ -31,13 +34,17 @@ nav a{
   padding: 5px;
 }
 
+/*
+
 nav a:hover{
   background: #add8e6
 }
 
+
 .menu:hover + nav, nav:hover{
   display: flex;
 }
+*/
 
 /* TABLET STYLES */
 
